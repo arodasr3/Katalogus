@@ -1,0 +1,8 @@
+{
+  "name": "Katalogus",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "c47a59db"
+}
